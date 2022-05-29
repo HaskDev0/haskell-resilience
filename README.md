@@ -1,4 +1,4 @@
-----FOR THE HASKELL FILE----
+----FOR THE HASKELL FILE----  
 The program is about efficiently finding the numbers with target resilience.
 
 The program reads from the file information of the form:
@@ -15,5 +15,5 @@ The algorithm then calculates for each q_i the smallest integer d_i, s.t. R(d) (
 Then it prints all calculated numbers in the file "Results.txt".
 
 
-----FOR THE PYTHON FILE----
+----FOR THE PYTHON FILE----  
 The program runs similar logic and solves the same problem except that it reads from the user input instead of the file.
